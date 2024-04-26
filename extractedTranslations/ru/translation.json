@@ -1,6 +1,8 @@
 {
+  ">": ">",
   "About us": "About us",
   "Home": "Home",
   "Lang": "Lang",
-  "short": "short"
+  "short": "short",
+  "toggle": "toggle"
 }
