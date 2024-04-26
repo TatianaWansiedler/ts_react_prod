@@ -46,6 +46,10 @@ module.exports = {
             },
         ],
         'max-len': ['error', { code: 100, ignoreComments: true }],
+        'react/self-closing-comp': ['error', {
+            component: false,
+            html: false,
+        }],
     },
     globals: {
         __IS_DEV__: true,
