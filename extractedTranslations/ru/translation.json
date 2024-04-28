@@ -3,7 +3,11 @@
   "About us": "About us",
   "Home": "Home",
   "Lang": "Lang",
+  "Main Page": "Main Page",
   "Page not found": "Page not found",
   "short": "short",
-  "toggle": "toggle"
+  "throw error": "throw error",
+  "toggle": "toggle",
+  "Обновить страницу": "Обновить страницу",
+  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка"
 }
