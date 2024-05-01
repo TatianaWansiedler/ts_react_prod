@@ -2,9 +2,11 @@
   "About us": "О нас",
   "Home": "Главная",
   "Lang": "Русский",
-  "LogIn": "Регистрация",
+  "LogIn": "Войти",
   "Page not found": "Страница не найдена",
   "Test": "Тест",
+  "decrement": "уменьшить",
+  "increment": "увеличить",
   "short": "РУ",
   "translate": "перевод"
 }

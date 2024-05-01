@@ -1,4 +1,5 @@
 {
-  "About Page": "About Page",
-  "About us": ""
+  "about": {
+    "About Page": "About page"
+  }
 }
