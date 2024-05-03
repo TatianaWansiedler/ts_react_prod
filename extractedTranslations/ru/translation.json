@@ -1,13 +1,23 @@
 {
+  "": "",
   ">": ">",
   "About Page": "About Page",
   "About us": "About us",
+  "Enter password": "Enter password",
+  "Enter username": "Enter username",
   "Home": "Home",
   "Lang": "Lang",
   "LogIn": "LogIn",
   "Main Page": "Main Page",
   "Page not found": "Page not found",
+  "Tipe username": "Tipe username",
+  "Tpe username": "Tpe username",
+  "Type": "Type",
+  "Type ": "Type ",
+  "Type password": "Type password",
+  "Type username": "Type username",
   "decrement": "decrement",
+  "enter username": "enter username",
   "increment": "increment",
   "lsdkfjsd": "lsdkfjsd",
   "short": "short",
@@ -16,5 +26,6 @@
   "Главная": "Главная",
   "О сайте": "О сайте",
   "Обновить страницу": "Обновить страницу",
-  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка"
+  "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
+  "Уnter username": "Уnter username"
 }
