@@ -1,14 +1,17 @@
 {
   "About us": "О нас",
-  "Enter password": "Введите пароль",
-  "Enter username": "Введите имя пользователя",
+  "Enter password": "Enter password",
+  "Enter username": "Enter username",
   "Home": "Главная",
   "Lang": "Русский",
   "LogIn": "Войти",
+  "Login form": "Форма авторизации",
+  "Logout": "Выйти",
   "Page not found": "Страница не найдена",
   "Test": "Тест",
   "decrement": "уменьшить",
   "increment": "увеличить",
+  "invalid username or password": "неверный логин или пароль",
   "short": "РУ",
   "translate": "перевод"
 }

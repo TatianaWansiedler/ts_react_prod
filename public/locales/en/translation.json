@@ -5,10 +5,13 @@
   "Home": "Home",
   "Lang": "English",
   "LogIn": "Login",
+  "Login form": "Login form",
+  "Logout": "Logout",
   "Page not found": "Page not found",
   "Test": "Test",
   "decrement": "decrement",
   "increment": "increment",
+  "invalid username or password": "invalid username or password",
   "short": "EN",
   "translate": "translate"
 }
