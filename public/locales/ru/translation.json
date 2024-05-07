@@ -13,5 +13,6 @@
   "increment": "увеличить",
   "invalid username or password": "неверный логин или пароль",
   "short": "РУ",
-  "translate": "перевод"
+  "translate": "перевод",
+    "Profile": "Профиль"
 }

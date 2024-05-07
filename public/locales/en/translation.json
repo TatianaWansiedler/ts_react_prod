@@ -13,5 +13,6 @@
   "increment": "increment",
   "invalid username or password": "invalid username or password",
   "short": "EN",
-  "translate": "translate"
+  "translate": "translate",
+  "Profile": "Profile"
 }
