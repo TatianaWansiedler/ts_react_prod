@@ -14,5 +14,7 @@
   "invalid username or password": "invalid username or password",
   "short": "EN",
   "translate": "translate",
-  "Profile": "Profile"
+  "Profile": "Profile",
+  "Select country": "Select country",
+  "Select currency": "Select currency"
 }

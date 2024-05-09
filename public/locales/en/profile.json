@@ -1,6 +1,28 @@
 {
-  "Profile page": "Profile page",
+  "An error occurred while loading the profile": "An error occurred while loading the profile",
   "Edit": "Edit",
   "Firstname": "Firstname",
-  "Lastname": "Lastname"
+  "Lastname": "Lastname",
+  "Try to refresh the page": "Try to refresh the page",
+  "Profile": "Profile",
+  "Cancel": "Cancel",
+  "Save": "Save",
+  "Age": "Age",
+  "City": "City",
+  "Enter username": "Enter username",
+  "Enter avatar link": "Enter avatar link",
+  "profile": {
+    "An error occurred while loading the profile": "An error occurred while loading the profile",
+    "Edit": "Edit",
+    "Firstname": "Firstname",
+    "Lastname": "Lastname",
+    "Try to refresh the page": "Try to refresh the page",
+    "Profile": "Profile",
+    "Cancel": "Cancel",
+    "Save": "Save",
+    "Age": "Age",
+    "City": "City",
+    "Enter username": "Enter username",
+    "Enter avatar link": "Enter avatar link"
+  }
 }

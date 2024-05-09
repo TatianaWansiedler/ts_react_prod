@@ -14,5 +14,7 @@
   "invalid username or password": "неверный логин или пароль",
   "short": "РУ",
   "translate": "перевод",
-    "Profile": "Профиль"
+  "Profile": "Профиль",
+  "Select country": "Выберите страну",
+  "Select currency": "Выберите валюту"
 }
