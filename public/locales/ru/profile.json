@@ -11,18 +11,9 @@
   "City": "Город",
   "Enter username": "Введите имя пользователя",
   "Enter avatar link": "Введите ссылку на аватар",
-  "profile": {
-    "An error occurred while loading the profile": "Произошла ошибка при загрущке профиля",
-    "Edit": "Редактировать",
-    "Firstname": "Ваше имя",
-    "Lastname": "Ваша фамилия",
-    "Try to refresh the page": "",
-    "Profile": "",
-    "Cancel": "",
-    "Save": "",
-    "Age": "",
-    "City": "",
-    "Enter username": "",
-    "Enter avatar link": ""
-  }
+  "First and last name are required": "Имя и фамилия обязательные",
+  "Incorrect age": "Некорректно указан возраст",
+  "Country data not provided": "Данные о стране не указаны",
+  "Data not provided": "Данные не указаны",
+  "Server error": "Серверная ошибка"
 }

@@ -6,7 +6,7 @@ import { Loader } from 'shared/ui/Loader/Loader';
 import { CountrySelect, type Country } from 'entities/Country';
 import { Currency, CurrencySelect } from 'entities/Currency';
 import { Avatar } from 'shared/ui/Avatar/Avatar';
-import type { Profile } from '../../model/types/profile';
+import { Profile } from '../../model/types/profile';
 import cls from './ProfileCard.module.scss';
 
 interface ProfileCardProps {
