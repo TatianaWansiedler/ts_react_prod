@@ -1,6 +1,5 @@
 import { classNames } from 'shared/lib/classNames/classNames';
 import { useTranslation } from 'react-i18next';
-import { memo } from 'react';
 import cls from './ArticlesPage.module.scss';
 
 interface ArticlesPageProps {
@@ -17,4 +16,4 @@ const ArticlesPage = ({ className }: ArticlesPageProps) => {
         </div>
     );
 };
-export default memo(ArticlesPage);
+export default ArticlesPage;
