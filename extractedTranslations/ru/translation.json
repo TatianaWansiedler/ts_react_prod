@@ -30,6 +30,7 @@
   "Enter your comment": "Enter your comment",
   "First and last name are required": "First and last name are required",
   "Firstname": "Firstname",
+  "Go back": "Go back",
   "Home": "Home",
   "Incorrect age": "Incorrect age",
   "Lang": "Lang",
@@ -44,12 +45,28 @@
   "Page not found": "Page not found",
   "Profile": "Profile",
   "Profile page": "Profile page",
+  "Read more": "Read more",
   "Safe": "Safe",
   "Save": "Save",
+  "Sc": {
+    "": {
+      "": {
+        "": ""
+      }
+    }
+  },
   "Select country": "Select country",
   "Select currency": "Select currency",
   "Send": "Send",
   "Server error": "Server error",
+  "Show ": "Show ",
+  "Show more": {
+    "": {
+      "": {
+        "": ""
+      }
+    }
+  },
   "There": "There",
   "There are no ": "There are no ",
   "There are no comments": "There are no comments",
@@ -65,6 +82,7 @@
   "an error occurred while loading the profile": "an error occurred while loading the profile",
   "decrement": "decrement",
   "enter username": "enter username",
+  "fhbfdhbv": "fhbfdhbv",
   "increment": "increment",
   "invalid username or password": "invalid username or password",
   "lsdkfjsd": "lsdkfjsd",
@@ -88,5 +106,12 @@
   "Сохранить": "Сохранить",
   "Статья не найдена": "Статья не найдена",
   "Уnter username": "Уnter username",
-  "Форма авторизации": "Форма авторизации"
+  "Форма авторизации": "Форма авторизации",
+  "Читать далее": {
+    "": {
+      "": {
+        "": ""
+      }
+    }
+  }
 }

@@ -21,6 +21,10 @@ const article: Article = {
     createdAt: '22.05.2023',
     type: [ArticleType.ECONOMICS],
     blocks: [block],
+    user: {
+        id: '1',
+        username: 'Tatiana',
+    },
 };
 
 describe('articleDetailsSlice', () => {
