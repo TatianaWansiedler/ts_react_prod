@@ -3,5 +3,18 @@
   "There was an error loading the article": "There was an error loading the article",
   "Comments": "Comments",
   "Read more": "Read more...",
-  "Go back": "Go back"
+  "Go back": "Go back",
+  "Sort by": "Sort by",
+  "Search": "Search",
+  "ascending": "ascending",
+  "descending": "descending",
+  "by": "by",
+  "date of creation": "date of creation",
+  "title": "title",
+  "views": "views",
+  "IT": "IT",
+  "All": "All",
+  "ECONOMICS": "ECONOMICS",
+  "SCIENCE": "SCIENCE",
+  "Articles are not found": "Articles are not found"
 }

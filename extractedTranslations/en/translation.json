@@ -4,11 +4,17 @@
   "About Page": "About Page",
   "About us": "About us",
   "Age": "Age",
+  "All": "All",
   "An error ": "An error ",
   "An error occurred while loading the profile": "An error occurred while loading the profile",
   "An error oq": "An error oq",
   "Article ": "Article ",
   "Article is not found": "Article is not found",
+  "Articles": "Articles",
+  "Articles ": "Articles ",
+  "Articles are not ": "Articles are not ",
+  "Articles are not found": "Articles are not found",
+  "Ascending": "Ascending",
   "Can": "Can",
   "Cance": "Cance",
   "Cancel": "Cancel",
@@ -19,6 +25,7 @@
   "Copy": "Copy",
   "Country data not provided": "Country data not provided",
   "Data not provided": "Data not provided",
+  "ECONOMICS": "ECONOMICS",
   "Edit": "Edit",
   "Enter ": "Enter ",
   "Enter avatar ": "Enter avatar ",
@@ -32,6 +39,7 @@
   "Firstname": "Firstname",
   "Go back": "Go back",
   "Home": "Home",
+  "IT": "IT",
   "Incorrect age": "Incorrect age",
   "Lang": "Lang",
   "Lastname": "Lastname",
@@ -46,6 +54,7 @@
   "Profile": "Profile",
   "Profile page": "Profile page",
   "Read more": "Read more",
+  "SCIENCE": "SCIENCE",
   "Safe": "Safe",
   "Save": "Save",
   "Sc": {
@@ -55,6 +64,7 @@
       }
     }
   },
+  "Search": "Search",
   "Select country": "Select country",
   "Select currency": "Select currency",
   "Send": "Send",
@@ -67,6 +77,7 @@
       }
     }
   },
+  "Sort by": "Sort by",
   "There": "There",
   "There are no ": "There are no ",
   "There are no comments": "There are no comments",
@@ -80,7 +91,11 @@
   "Type password": "Type password",
   "Type username": "Type username",
   "an error occurred while loading the profile": "an error occurred while loading the profile",
+  "ascending": "ascending",
+  "by": "by",
+  "date of creation": "date of creation",
   "decrement": "decrement",
+  "descending": "descending",
   "enter username": "enter username",
   "fhbfdhbv": "fhbfdhbv",
   "increment": "increment",
@@ -89,17 +104,23 @@
   "n error occurred while loading the profile": "n error occurred while loading the profile",
   "short": "short",
   "throw error": "throw error",
+  "title": "title",
   "toggle": "toggle",
+  "view": "view",
+  "views": "views",
+  "Айти": "Айти",
   "Ваш возраст": "Ваш возраст",
   "Введите username": "Введите username",
   "Введите имя пользователя": "Введите имя пользователя",
   "Введите пароль": "Введите пароль",
   "Введите ссылку на аватар": "Введите ссылку на аватар",
   "Войти": "Войти",
+  "Все статьи": "Все статьи",
   "Вы ввели неверный логин или пароль": "Вы ввели неверный логин или пароль",
   "Выйти": "Выйти",
   "Главная": "Главная",
   "Город": "Город",
+  "Наука": "Наука",
   "О сайте": "О сайте",
   "Обновить страницу": "Обновить страницу",
   "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
@@ -113,5 +134,6 @@
         "": ""
       }
     }
-  }
+  },
+  "Экономика": "Экономика"
 }
