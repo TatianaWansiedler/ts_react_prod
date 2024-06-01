@@ -67,8 +67,12 @@
     }
   },
   "Search": "Search",
+  "Select": "Select",
+  "Select ": "Select ",
+  "Select an option": "Select an option",
   "Select country": "Select country",
   "Select currency": "Select currency",
+  "Select option": "Select option",
   "Send": "Send",
   "Server error": "Server error",
   "Show ": "Show ",

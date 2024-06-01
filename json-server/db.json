@@ -89,7 +89,7 @@
       "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745"
     }
   ],
- "articles": [
+  "articles": [
     {
       "id": "1",
       "title": "Javascript news СВЕЖАЯ",
@@ -406,7 +406,7 @@
       "id": "12",
       "title": "Python news",
       "subtitle": "Что нового в JS за 2022 год?",
-      "img":"https://miro.medium.com/v2/resize:fit:735/1*2ZrpIUZxDzr0oXcwRsCMhw.jpeg",
+      "img": "https://miro.medium.com/v2/resize:fit:735/1*2ZrpIUZxDzr0oXcwRsCMhw.jpeg",
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
