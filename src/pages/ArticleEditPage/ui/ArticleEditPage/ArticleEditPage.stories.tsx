@@ -14,5 +14,5 @@ const Template: ComponentStory<typeof ArticleEditPage> = (args) => (
     <ArticleEditPage {...args} />
 );
 
-export const Prymary = Template.bind({});
-Prymary.args = {};
+// export const Prymary = Template.bind({});
+// Prymary.args = {};
