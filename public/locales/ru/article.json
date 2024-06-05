@@ -18,5 +18,6 @@
   "SCIENCE": "Наука",
   "Articles are not found": "Статьи не найдены",
   "Recomendatios": "Рекомендации",
-  "Edit": "Редактировать"
+  "Edit": "Редактировать",
+  "Error loading articles": "Возникла ошибка при загрузке статей"
 }

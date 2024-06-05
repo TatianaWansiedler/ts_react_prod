@@ -15,5 +15,6 @@
   "Incorrect age": "Некорректно указан возраст",
   "Country data not provided": "Данные о стране не указаны",
   "Data not provided": "Данные не указаны",
-  "Server error": "Серверная ошибка"
+  "Server error": "Серверная ошибка",
+  "Profile is not found": "Профиль не найден"
 }

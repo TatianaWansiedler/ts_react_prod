@@ -3,19 +3,22 @@ import { useTranslation } from 'react-i18next';
 import { Button, ButtonTheme } from 'shared/ui/Button/Button';
 import { Text } from 'shared/ui/Text/Text';
 import { useSelector } from 'react-redux';
-import {
-    getProfileData, getProfileReadonly, profileActions, updateProfileData,
-} from 'entities/Profile';
 import { useAppDispatch } from 'shared/lib/hooks/useAppDispatch/useAppDispatch';
 import { useCallback } from 'react';
 import { getUserAuthData } from 'entities/User';
 import { HStack } from 'shared/ui/Stack';
+import { getProfileData } from '../../model/selectors/getProfileData/getProfileData';
+import { getProfileReadonly } from '../../model/selectors/getProfileReadonly/getProfileReadonly';
+import { profileActions } from '../../model/slice/profileSlice';
+import { updateProfileData } from '../../model/services/updateProfileData/updateProfileData';
 
-interface ProfilePageHeaderProps {
-   className?: string;
+interface EditableProfileCardHeaderProps {
+  className?: string;
 }
 
-export const ProfilePageHeader = ({ className }: ProfilePageHeaderProps) => {
+export const EditableProfileCardHeader = ({
+    className,
+}: EditableProfileCardHeaderProps) => {
     const { t } = useTranslation('profile');
     const authData = useSelector(getUserAuthData);
     const profileData = useSelector(getProfileData);
@@ -43,31 +46,21 @@ export const ProfilePageHeader = ({ className }: ProfilePageHeaderProps) => {
             {canEdit && (
                 <div>
                     {readonly ? (
-                        <Button
-                            theme={ButtonTheme.OUTLINE}
-                            onClick={onEdit}
-                        >
+                        <Button theme={ButtonTheme.OUTLINE} onClick={onEdit}>
                             {t('Edit')}
                         </Button>
                     ) : (
                         <HStack gap="8">
-                            <Button
-                                theme={ButtonTheme.OUTLINE_RED}
-                                onClick={onCancelEdit}
-                            >
+                            <Button theme={ButtonTheme.OUTLINE_RED} onClick={onCancelEdit}>
                                 {t('Cancel')}
                             </Button>
-                            <Button
-                                theme={ButtonTheme.OUTLINE}
-                                onClick={onSave}
-                            >
+                            <Button theme={ButtonTheme.OUTLINE} onClick={onSave}>
                                 {t('Save')}
                             </Button>
                         </HStack>
                     )}
                 </div>
             )}
-
         </HStack>
     );
 };
