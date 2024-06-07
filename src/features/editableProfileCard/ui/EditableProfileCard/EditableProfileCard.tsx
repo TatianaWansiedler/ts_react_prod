@@ -22,7 +22,7 @@ import { ValidateProfileError } from '../../model/types/editableProfileCardSchem
 
 interface EditableProfileCardProps {
     className?: string;
-    id?: string;
+    id: string;
 }
 
 const reducers: ReducersList = {
@@ -113,11 +113,7 @@ export const EditableProfileCard = memo((props: EditableProfileCardProps) => {
 
     return (
         <DynamicModuleLoader reducers={reducers} removeAfterUnmount>
-            <VStack
-                gap="8"
-                max
-                className={classNames('', {}, [className])}
-            >
+            <VStack gap="8" max className={classNames('', {}, [className])}>
                 <EditableProfileCardHeader />
                 {validateErrors?.length
             && validateErrors.map((err) => (
@@ -125,6 +121,7 @@ export const EditableProfileCard = memo((props: EditableProfileCardProps) => {
                     key={err}
                     theme={TextTheme.ERROR}
                     text={validateErrorTranslate[err]}
+                    data-testid="EditableProfileCard.Error"
                 />
             ))}
                 <ProfileCard
